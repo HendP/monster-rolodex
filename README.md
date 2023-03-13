@@ -4,4 +4,4 @@ Simple Application when learning component class and functional components in Re
 
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
-![My Remote Image](https://raw.githubusercontent.com/HendP/monster-rolodex/master/screenshot/app.jpeg?token=GHSAT0AAAAAAB7V7U63CMZB5PTTM4EKOHJ2ZAJ3MGQ)
+![My Remote Image](https://raw.githubusercontent.com/HendP/monster-rolodex/master/screenshot/app.jpeg?token=GHSAT0AAAAAAB7V7U622SDVPD363LKQTNGCZAO7L5A)
